@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataBaseDemo1
+</name>
+</assembly>
+<members>
+<member name="P:DataBaseDemo1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DataBaseDemo1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:DataBaseDemo1.My.Resources.Resources._338956_218855824855013_1158047167_o">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DataBaseDemo1.My.Resources.Resources.Emma_Roberts_Wallpaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:DataBaseDemo1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.BankAccountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.CourseCatalogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.OrderEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.StateRegionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.UnitOfMeasureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.BankAccountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.CourseCatalogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.OrderEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.StateRegionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.UnitOfMeasureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.BankAccountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.CourseCatalogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.OrderEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.StateRegionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet.UnitOfMeasureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.BankAccountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.CourseCatalogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.OrderEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.StateRegionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.UnitOfMeasureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DataBaseDemo1.StepSampleDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DataBaseDemo1.StepSampleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DataBaseDemo1.StepSampleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSetTableAdapters.TableAdapterManager.UpdateAll(DataBaseDemo1.StepSampleDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.BankAccountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.CourseCatalogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.OrderEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.StateRegionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.UnitOfMeasureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.BankAccountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.CourseCatalogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.OrderEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.StateRegionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.UnitOfMeasureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.BankAccountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.CourseCatalogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.OrderEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.StateRegionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1.UnitOfMeasureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.BankAccountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.CourseCatalogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.OrderEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.StateRegionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.UnitOfMeasureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(DataBaseDemo1.StepSampleDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(DataBaseDemo1.StepSampleDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(DataBaseDemo1.StepSampleDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DataBaseDemo1.StepSampleDataSet1TableAdapters.TableAdapterManager.UpdateAll(DataBaseDemo1.StepSampleDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DataBaseDemo1.StepSampleDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

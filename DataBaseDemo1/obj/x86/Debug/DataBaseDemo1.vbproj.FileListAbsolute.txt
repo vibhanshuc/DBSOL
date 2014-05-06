@@ -1,0 +1,9 @@
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\bin\x86\Debug\DataBaseDemo1.exe.config
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\obj\x86\Debug\DataBaseDemo1.Form1.resources
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\obj\x86\Debug\DataBaseDemo1.Form2.resources
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\obj\x86\Debug\DataBaseDemo1.Form3.resources
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\obj\x86\Debug\DataBaseDemo1.Form4.resources
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\obj\x86\Debug\DataBaseDemo1.ImageUploader.resources
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\obj\x86\Debug\DataBaseDemo1.Login.resources
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\obj\x86\Debug\DataBaseDemo1.Resources.resources
+C:\Users\aLienaTor\documents\visual studio 2012\Projects\VCS2010\DataBaseDemo1\DataBaseDemo1\obj\x86\Debug\DataBaseDemo1.vbproj.GenerateResource.Cache
